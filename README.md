@@ -329,4 +329,3 @@ Unless otherwise specified, all code in this repository is made available under 
 ## 🤝 Acknowledgments
 This code is heavily borrowed from [MegaPose](https://github.com/megapose6d/megapose6d) and [CNOS](https://github.com/nv-nguyen/cnos). 
 
-The authors thank Jonathan Tremblay, Medéric Fourmy, Yann Labbé, Michael Ramamonjisoa and Constantin Aronssohn for their help and valuable feedbacks!
